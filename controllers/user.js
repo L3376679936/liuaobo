@@ -1,6 +1,6 @@
 // 引用用户模版数据
 const User = require('../models/user.js');
-const asdsa = require('../models/user.js');
+
 
 
 const jwtToken = require('../utils/token')
